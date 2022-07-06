@@ -1,0 +1,226 @@
+body{
+    font-family: 'Poppins', sans-serif;
+   margin: 0%;
+   padding: 0%;
+}
+.banner-imges1{
+   background-image: url(images/donation12.png);
+   width: 100vw;
+   height: 100vh;
+   position: relative;
+   background-size: cover;
+   display: flex;
+}
+.banner-imges2{
+   text-align: center;
+   width: 100%;
+   height: 100%;
+   font-size: 30px;
+   color: rgb(255, 0, 0);
+   padding-top: 10%;
+   padding-left: 20%;
+   padding-right: 20%;
+   
+}
+.banner-imges2 p{
+   font-size:20px ;
+   text-align: center;
+   display: flex;
+   padding-left: 30%;
+   padding-right: 30%;
+}
+.link-button{
+   font-style: normal;
+   text-decoration: none;
+   background-color:rgb(179, 245, 207);
+   border-radius: 5%;
+   color: black;
+   border: 40%;
+}
+.heading-size{
+   text-align: center;
+   padding-top: 10%;
+   text-decoration: none;
+   font-style: normal;
+   font-size: 30px;
+}
+.heading-size p{
+   text-align: center;
+   padding-left: 30%;
+   padding-right: 30%;
+   font-size: 20px;
+   color: blueviolet;
+}
+.button{
+   text-align: center;
+   display: flex;
+   padding-left: 35%;
+   padding-right: 30%;
+   padding-top: 2%;
+}
+
+.button1 {
+   background-color: white; 
+   color:black; 
+   border: 5px solid #4CAF50;
+ }
+ 
+ .button1:hover {
+   background-color: #4CAF50;
+   color: white;
+ }
+ 
+ .button2 {
+   background-color: white; 
+   color:black; 
+   border: 5px solid #008CBA;
+ }
+ 
+ .button2:hover {
+   background-color: #008CBA;
+   color: white;
+ }
+ .button3 {
+   background-color: white; 
+   color:black; 
+   border: 5px solid #008CBA;
+ }
+ .button3:hover {
+   background-color: #008CBA;
+   color: white;
+ }
+ .button4 {
+   background-color: white; 
+   color: black; 
+   border: 5px solid #008CBA;
+   
+ }
+ .button4:hover {
+   background-color: #008CBA;
+   color: white;}
+   .text{
+       text-align: center;
+       padding-top: 10%;
+   }
+   .large-text{
+       text-align: center;
+       padding-top: 10%;
+       font-size: 30px;
+   }
+   .large-text p{
+       font-size: 20px ;
+       padding-left: 30%;
+       padding-right: 30%;
+
+   }
+   .icon-image{
+       background-image: url(icons/food.png);
+       background-repeat: no-repeat;
+       padding-top: 5%;
+       padding-left: 10px;
+       box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+       color: aquamarine;
+   }
+   .icon-image2{
+       background-image: url(icons/shelter.png);
+       background-repeat: no-repeat;
+       padding-top: 5%;
+       padding-left: 10px;
+       box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+       color: #008CBA;
+       
+   }
+   .icon-image3{
+      
+    
+       padding-left: 10px;
+       padding-top: 5%;
+       box-shadow: 2px 2px 2px 5px rgba(0, 0, 0, 0.2);
+       color: #4CAF50;
+   
+   }
+   .experence-area{
+       display: flex;
+       padding-top: 10%;
+   }
+   .flex-continer{
+       display: flex;
+       margin-bottom: 100px;
+   }
+   .half-width{
+       width: 50%;
+       padding-left: 5%;
+       padding-top: 10%;
+   }
+   .link-button{
+       text-decoration: none;
+   background-image: linear-gradient(orange,tomato);
+   padding: 10px 20px;
+   border-radius: 5px;
+   font-weight: 700;
+   color:white;
+   }
+   hr{
+       margin-left: 20%;
+       margin-right: 20%;
+   }
+   .flex-continer1{
+       display: flex;
+       padding-bottom: 100px;
+   }
+   .team{
+       text-align: center;
+       font-size: 40px;
+   }
+   .team p{
+       text-align: center;
+       font-size: 20px;
+       padding-left: 30%;
+       padding-right: 30%;
+   }
+   .footer{
+       text-align: center;
+       font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+       width: 100%;
+       height: 100px;
+       border: rgb(168, 35, 35);
+       background-color: black;
+       text-decoration-color: brown;
+   }
+   .footer p{
+       color: antiquewhite;
+   }
+   .google-form{
+       text-align: center;
+       background-color: antiquewhite;
+       width: 60%;
+       height: 100%;
+       padding-left: 22.5%;
+       padding-right: 22.5%;
+       padding-bottom: 10%;
+       font-size: 29px;
+       
+      
+   }
+   .google2{
+       text-align: center;
+       padding-top: 5%;
+   }
+   .orange{
+       color: brown;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+   }
+
+
+  
+   
+   
+   
+
+
+
+
+   
+
+
+
